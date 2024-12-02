@@ -21,3 +21,9 @@ h2 {
   background: #ccc;
   text-decoration: underline;
 }
+
+#tasks  {
+  background: #ccc;
+  text-decoration: underline;
+  font-size: 12px;
+}
